@@ -29,4 +29,6 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 https://diff.wikimedia.org/2023/07/13/exploring-paths-for-the-future-of-free-knowledge-new-wikipedia-chatgpt-plugin-leveraging-rich-media-social-apps-and-other-experiments/
 
+* [RETRO - JAY ALAMMAR] http://jalammar.github.io/illustrated-retrieval-transformer/ 
+
 
