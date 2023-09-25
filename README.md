@@ -9,6 +9,12 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## LLMS
 
+* Kai Sun et al. [Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?]( https://arxiv.org/pdf/2308.10168.pdf)
+
+* Yihan Liu et al. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), 2020.
+ https://arxiv.org/pdf/2308.10168.pdf
+ https://arxiv.org/abs/2306.08302
+
 ## Knowledge-based LLMs
 
 ## Survey Papers
