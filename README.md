@@ -14,6 +14,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Ilia Shumailov et al. [THE CURSE OF RECURSION: TRAINING ON GENERATED DATA MAKES MODELS FORGET] (https://arxiv.org/pdf/2305.17493.pdf)
 * Potsawee Manakul et al. [SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models] (https://arxiv.org/abs/2303.08896)
 * Chengrun Yang et al.  [Large Language Models as Optimizers] (https://arxiv.org/abs/2309.03409)
+* Shehzaad Dhuliawala et al. [CHAIN-OF-VERIFICATION REDUCES HALLUCINATION IN LARGE LANGUAGE MODELS] (https://arxiv.org/pdf/2309.11495.pdf)
 
 ## Survey Papers
 
