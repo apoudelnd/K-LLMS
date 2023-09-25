@@ -17,6 +17,11 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Shehzaad Dhuliawala et al. [CHAIN-OF-VERIFICATION REDUCES HALLUCINATION IN LARGE LANGUAGE MODELS] (https://arxiv.org/pdf/2309.11495.pdf)
 * Sebastian Borgeaud et al. Improving language models by retrieving from trillions of tokens (https://arxiv.org/pdf/2112.04426.pdf)
 
+## Interesting
+
+* Lukas Berglund et al. [The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A] (https://arxiv.org/pdf/2309.12288.pdf)
+
+
 ## Survey Papers
 
 * Shirui Pan et al. [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/abs/2306.08302)
