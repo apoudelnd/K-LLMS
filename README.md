@@ -1,7 +1,7 @@
 # K-LLMS
 Literature Review and Roadmaps for robust  Knowledge-based LLMs
 
-This is a list of important knowledge-based natural language processing (NLP) papers that discuss the current research in the field. This list is compiled by the collaborators from University of Notre Dame, and Deloitte. 
+This is a list of important knowledge-based natural language processing (NLP) papers that discuss the current research in the field. This list is compiled by the collaborators from **University of Notre Dame, and Deloitte**. 
 
 This list is far from complete or objective, and is evolving, as important papers are being published year after year.
 
