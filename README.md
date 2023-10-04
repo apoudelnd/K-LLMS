@@ -8,7 +8,7 @@ This list is far from complete or objective, and is evolving, as important paper
 A paper doesn't have to be a peer-reviewed conference/journal paper to appear here. We also include tutorial/survey-style papers and blog posts that are often easier to understand than the original papers.
 
 ## Knowledge-based LLMs
-* Lin et al. [RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUC- TION TUNING](https://arxiv.org/pdf/2310.01352.pdf)
+* Lin et al. [RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING](https://arxiv.org/pdf/2310.01352.pdf)
 * Kai Sun et al. [Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?]( https://arxiv.org/pdf/2308.10168.pdf)
 * Jiongnan Liu et al. [RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit](https://arxiv.org/abs/2306.05212)
 * Ilia Shumailov et al. [THE CURSE OF RECURSION: TRAINING ON GENERATED DATA MAKES MODELS FORGET](https://arxiv.org/pdf/2305.17493.pdf)
