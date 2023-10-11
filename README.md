@@ -20,6 +20,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Yike Wu et al. [KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering](https://arxiv.org/abs/2309.11206)
 * Yu et al. 2023, [Grounding Language Models to Real-World Environments](https://aclanthology.org/2023.acl-long.270.pdf)
   - Grounding "languate understaning that uses discriminative ability of LMs instea of their generative ability"
+* Swammy et al., 2021, [Interpreting Language Models Through Knowledge Graph Extraction](https://openreview.net/pdf?id=PW4AGjla3sx)
+  - Generate or drive the creation of KGs from LLMs
     
 ## Interesting
 
