@@ -18,7 +18,9 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * Shehzaad Dhuliawala et al. [CHAIN-OF-VERIFICATION REDUCES HALLUCINATION IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.11495.pdf)
 * Sebastian Borgeaud et al. [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)
 * Yike Wu et al. [KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering](https://arxiv.org/abs/2309.11206)
-
+* Yu et al. 2023, [Grounding Language Models to Real-World Environments](https://aclanthology.org/2023.acl-long.270.pdf)
+  - Grounding "languate understaning that uses discriminative ability of LMs instea of their generative ability"
+    
 ## Interesting
 
 * Lukas Berglund et al. [The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A](https://arxiv.org/pdf/2309.12288.pdf)
