@@ -29,7 +29,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Survey Papers
 
-* Shirui Pan et al. [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/abs/2306.08302)
+* Shirui Pan et al., 2023, [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/abs/2306.08302)
+  - Collection of papers and resources about LLMs and KGs. [github repo](https://github.com/RManLuo/Awesome-LLM-KG)   
 
 ## Others
 
