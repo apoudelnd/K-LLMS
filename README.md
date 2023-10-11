@@ -10,17 +10,20 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 ## Knowledge-based LLMs
 * Lin et al. [RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING](https://arxiv.org/pdf/2310.01352.pdf)
 * Kai Sun et al. [Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?]( https://arxiv.org/pdf/2308.10168.pdf)
+  - An evaluation of multiple LLMs to confidently internalize factual knowledge especially for facts of _torso-to-tail_ entities (non popular and still emerging knowledge) which concludes that these set of LLMs are still far from _perfect_. 
 * Jiongnan Liu et al. [RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit](https://arxiv.org/abs/2306.05212)
 * Ilia Shumailov et al. [THE CURSE OF RECURSION: TRAINING ON GENERATED DATA MAKES MODELS FORGET](https://arxiv.org/pdf/2305.17493.pdf)
 * Potsawee Manakul et al. [SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/abs/2303.08896)
 * Chengrun Yang et al.  [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 * Shehzaad Dhuliawala et al. [CHAIN-OF-VERIFICATION REDUCES HALLUCINATION IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2309.11495.pdf)
 * Sebastian Borgeaud et al. [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)
+* Yike Wu et al. [KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering](https://arxiv.org/abs/2309.11206)
 
 ## Interesting
 
 * Lukas Berglund et al. [The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A](https://arxiv.org/pdf/2309.12288.pdf)
-
+* Encoding clinical knowledge (2023 Nature by Google Research folks)- [Aligning LLMs to new domains](https://www.nature.com/articles/s41586-023-06291-2)
+  
 
 ## Survey Papers
 
