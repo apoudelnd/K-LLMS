@@ -27,7 +27,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Lukas Berglund et al. [The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A](https://arxiv.org/pdf/2309.12288.pdf)
 * Encoding clinical knowledge (2023 Nature by Google Research folks)- [Aligning LLMs to new domains](https://www.nature.com/articles/s41586-023-06291-2)
-  
+* Using logical reasoning to _guide_ an LM allows for training on certified self-generated reasoning to help avoid halucinaitions. [Certified Reasoning with Language Models](https://arxiv.org/pdf/2306.04031.pdf)  
 
 ## Survey Papers
 
