@@ -22,7 +22,9 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
   - Grounding "languate understaning that uses discriminative ability of LMs instea of their generative ability"
 * Swamy et al., 2021, [Interpreting Language Models Through Knowledge Graph Extraction](https://openreview.net/pdf?id=PW4AGjla3sx)
   - Generate or drive the creation of KGs from LLMs
-    
+* Asai et al., [SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION](https://arxiv.org/pdf/2310.11511.pdf)
+* Huang et al.,[LARGE LANGUAGE MODELS CANNOT SELF-CORRECT REASONING YET](https://arxiv.org/pdf/2310.01798.pdf)
+
 ## Interesting
 
 * Lukas Berglund et al. [The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A](https://arxiv.org/pdf/2309.12288.pdf)
