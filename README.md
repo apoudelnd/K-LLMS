@@ -9,8 +9,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 
 ## KG & LLM fusion (pretraining)
-[GREASELM: GRAPH REASONING ENHANCED LANGUAGE MODELS FOR QUESTION ANSWERING](https://arxiv.org/pdf/2201.08860.pdf) ICLR 2022
-[Deep Bidirectional Language-Knowledge Graph Pretraining](https://proceedings.neurips.cc/paper_files/paper/2022/file/f224f056694bcfe465c5d84579785761-Supplemental-Conference.pdf) NEURIPS 2022
+ICLR 2022 - [GREASELM: GRAPH REASONING ENHANCED LANGUAGE MODELS FOR QUESTION ANSWERING](https://arxiv.org/pdf/2201.08860.pdf) 
+NEURIPS 2022 - [Deep Bidirectional Language-Knowledge Graph Pretraining](https://proceedings.neurips.cc/paper_files/paper/2022/file/f224f056694bcfe465c5d84579785761-Supplemental-Conference.pdf) 
 The difference from GreaseLM is that while GreaseLM only performs finetuning (hence, it is an LM finetuned with KGs), DRAGON performs self-supervised pretraining (hence, it can be viewed as an LM pretrained + finetuned with KGs). Both of these papers are out of Stanford.
 
 
