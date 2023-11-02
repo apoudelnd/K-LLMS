@@ -13,8 +13,6 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * NEURIPS 2022 - [Deep Bidirectional Language-Knowledge Graph Pretraining](https://proceedings.neurips.cc/paper_files/paper/2022/file/f224f056694bcfe465c5d84579785761-Supplemental-Conference.pdf) 
   - The difference from GreaseLM is that while GreaseLM only performs finetuning (hence, it is an LM finetuned with KGs), DRAGON performs self-supervised pretraining (hence, it can       be viewed as an LM pretrained + finetuned with KGs). Both of these papers are out of Stanford.
 
-* EMNLP 2023 WORKSHOP - [FLEEK: Factual Error Detection and Correction with Evi Re External edge](https://arxiv.org/pdf/2310.17119.pdf)
-
 ## Knowledge-based LLMs
 * Lin et al. [RA-DIT: RETRIEVAL-AUGMENTED DUAL INSTRUCTION TUNING](https://arxiv.org/pdf/2310.01352.pdf)
 * Kai Sun et al. [Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?]( https://arxiv.org/pdf/2308.10168.pdf)
@@ -37,7 +35,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * Lukas Berglund et al. [The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A](https://arxiv.org/pdf/2309.12288.pdf)
 * Encoding clinical knowledge (2023 Nature by Google Research folks)- [Aligning LLMs to new domains](https://www.nature.com/articles/s41586-023-06291-2)
-* Using logical reasoning to _guide_ an LM allows for training on certified self-generated reasoning to help avoid halucinaitions. [Certified Reasoning with Language Models](https://arxiv.org/pdf/2306.04031.pdf)  
+* Using logical reasoning to _guide_ an LM allows for training on certified self-generated reasoning to help avoid halucinaitions. [Certified Reasoning with Language Models](https://arxiv.org/pdf/2306.04031.pdf)
+* EMNLP 2023 WORKSHOP - [FLEEK: Factual Error Detection and Correction with Evi Re External edge](https://arxiv.org/pdf/2310.17119.pdf)
 
 ## Survey Papers
 
